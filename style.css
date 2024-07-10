@@ -6,6 +6,10 @@
     margin: 200px 520px;
     background-color: blueviolet;
 }
+h2{
+    color: rgb(185, 15, 15);
+    text-align: center;
+}
 .all .box{
     background-color: rgb(8, 8, 45);
     color: white;
