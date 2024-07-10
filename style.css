@@ -1,0 +1,18 @@
+.all{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 30px;
+    margin: 200px 520px;
+}
+.all .box{
+    background-color: rgb(8, 8, 45);
+    color: white;
+    border-radius: 8px;
+    padding: 30px;
+}
+.all .box p,i{
+    display: inline;
+}
+.all .box i{
+    margin-right: 5px;
+}
